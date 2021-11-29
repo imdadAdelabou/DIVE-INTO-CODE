@@ -8,4 +8,9 @@ All my projects done in the dive into code challenge.
     <li> 📸 SCREENSHOTS<br><img  height="350px" src="/screenshots/inquiry2.png"/></li> <li> ✅ Deployment link<br> https://imdadadelabou.github.io/Inquiry-form/ </li>
     </ul>
     </li>
+    <li> Sample site imitation
+        <ul>
+            <li> </li>
+        </ul>
+    </li>
 </ul>
