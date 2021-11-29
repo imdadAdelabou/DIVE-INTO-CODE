@@ -10,7 +10,7 @@ All my projects done in the dive into code challenge.
     </li>
     <li> Sample site imitation
         <ul>
-            <li> </li>
+            <li>📸 SCREENSHOTS<br><img src="/screenshots/sample.png" height="350px"/></li>
         </ul>
     </li>
 </ul>
