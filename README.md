@@ -11,6 +11,8 @@ All my projects done in the dive into code challenge.
     <li> Sample site imitation
         <ul>
             <li>📸 SCREENSHOTS<br><img src="/screenshots/sample.png" height="350px"/></li>
+            <li>✅ Deployment link</li>
+            https://imdadadelabou.github.io/Sample-site-imitation/
         </ul>
     </li>
 </ul>
